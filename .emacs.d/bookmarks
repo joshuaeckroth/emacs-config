@@ -1,0 +1,150 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("csci221-website (local)"
+ (filename . "~/Documents/GitHub/csci221-website/")
+ (front-context-string . "CNAME\n  -rw-rw-r")
+ (rear-context-string . " 23 06-15 13:22 ")
+ (position . 148))
+("georules (local)"
+ (filename . "~/Documents/hostgis/georules/")
+ (front-context-string . "README.md\n  -rw-")
+ (rear-context-string . "761 06-30 10:26 ")
+ (position . 140))
+("hostgis (local)"
+ (filename . "~/Documents/hostgis/")
+ (front-context-string . "jetty-all-7.0.2.")
+ (rear-context-string . "634 06-21 10:38 ")
+ (position . 594))
+("csci221 (foundry)"
+ (filename . "/plink:foundry.artifice.cc:/home/josh/git/csci221/")
+ (front-context-string)
+ (rear-context-string . "096 06-28 11:17 ")
+ (position . 107))
+("i2kweb (foundry)"
+ (filename . "/plink:foundry.artifice.cc:/home/josh/i2k/i2kweb/")
+ (front-context-string . "Consolidated A-l")
+ (rear-context-string . "731 05-08 08:22 ")
+ (position . 114))
+("notes.org"
+ (filename . "~/Dropbox/josh/notes.org")
+ (front-context-string . "\n* Grants and ap")
+ (rear-context-string . "w on big strings")
+ (position . 3005))
+("i2kconduit (foundry)"
+ (filename . "/plink:foundry.artifice.cc:/home/josh/i2k/i2kconduit/")
+ (front-context-string)
+ (rear-context-string . "096 04-21 10:47 ")
+ (position . 163))
+("i2kdevops (foundry)"
+ (filename . "/plink:foundry.artifice.cc:/home/josh/i2k/i2kdevops/")
+ (front-context-string)
+ (rear-context-string . "096 06-05 09:10 ")
+ (position . 109))
+("i2ksdk (foundry)"
+ (filename . "/plink:foundry.artifice.cc:/home/josh/i2k/i2ksdk/")
+ (front-context-string . "README.md\n  drwx")
+ (rear-context-string . "288 05-22 15:52 ")
+ (position . 114))
+("i2kdb (foundry)"
+ (filename . "/plink:foundry.artifice.cc:/home/josh/i2k/i2kdb/")
+ (front-context-string . "README.md\n  drwx")
+ (rear-context-string . "195 04-21 10:48 ")
+ (position . 115))
+("i2kworkers (foundry)"
+ (filename . "/plink:foundry.artifice.cc:/home/josh/i2k/i2kworkers/")
+ (front-context-string . "README.md\n  -rw-")
+ (rear-context-string . "067 04-21 11:18 ")
+ (position . 116))
+("i2k (foundry)"
+ (filename . "/plink:foundry.artifice.cc:/home/josh/i2k/")
+ (front-context-string . "2014-05-18 MER A")
+ (rear-context-string . "404 05-16 16:37 ")
+ (position . 110))
+("git (local)"
+ (filename . "~/Documents/GitHub/")
+ (front-context-string . "cse3521-website/")
+ (rear-context-string . "192 04-17 23:11 ")
+ (position . 963))
+("git (foundry)"
+ (filename . "/plink:foundry.artifice.cc:/home/josh/git/")
+ (front-context-string . "research/\n  drwx")
+ (rear-context-string . "096 05-25 11:57 ")
+ (position . 572))
+("i2kdb (local)"
+ (filename . "~/Documents/i2k/i2kdb/")
+ (front-context-string . "src/\n  drwxrwxrw")
+ (rear-context-string . "  0 11-17 13:24 ")
+ (position . 357))
+("i2kconduit_apachesolr_search"
+ (filename . "/plink:eins.ath.cx:/mnt/home/josh/i2kconduit/drupal/i2kconduit_apachesolr_search/")
+ (front-context-string . "i2kconduit_apach")
+ (rear-context-string . "133 03-03 12:36 ")
+ (position . 138))
+("cse3521-src"
+ (filename . "~/Documents/GitHub/cse3521-website/src/")
+ (front-context-string . "CNAME\n  -rw-rw-r")
+ (rear-context-string . " 23 10-29 08:24 ")
+ (position . 155))
+("retrospect"
+ (filename . "~/Documents/GitHub/retrospect/")
+ (front-context-string . "Netica.dll\n  -rw")
+ (rear-context-string . "200 11-12 22:59 ")
+ (position . 147))
+("thesis"
+ (filename . "~/Documents/dissertation/thesis/")
+ (front-context-string . "GuidelinesSample")
+ (rear-context-string . "434 2012-10-04  ")
+ (position . 148))
+("geppettoweb (foundry)"
+ (filename . "/plink:foundry.artifice.cc:/home/josh/git/research/geppettoweb/")
+ (front-context-string . "README.md\n  -rw-")
+ (rear-context-string . "330 11-20 07:31 ")
+ (position . 121))
+("i2kdrupaltheme"
+ (filename . "/plink:eins.ath.cx:/mnt/home/josh/i2kconduit/drupal/i2kdrupaltheme/")
+ (front-context-string . "color/\n  -rw-r--")
+ (rear-context-string . "096 12-08 05:55 ")
+ (position . 126))
+("geppetto (local)"
+ (filename . "~/Documents/GitHub/geppetto/")
+ (front-context-string . "(SICI)1099-1360(")
+ (rear-context-string . "089 09-20 08:04 ")
+ (position . 147))
+("i2kweb"
+ (filename . "/plink:eins.ath.cx:/mnt/home/josh/i2kweb/src/clj/i2kweb/")
+ (front-context-string . "handler.clj\n  dr")
+ (rear-context-string . "912 11-05 21:59 ")
+ (position . 113))
+("i2kconduit_drupal (i2keast)"
+ (filename . "/plink:eins.ath.cx:/mnt/home/josh/i2kconduit/drupal/i2kconduit_drupal/")
+ (front-context-string . "form_i2k_import_")
+ (rear-context-string . "277 11-04 08:02 ")
+ (position . 128))
+("geppettoweb (i2keast)"
+ (filename . "/plink:eins.ath.cx:/mnt/home/josh/geppettoweb/")
+ (front-context-string)
+ (rear-context-string . "096 09-22 17:28 ")
+ (position . 543))
+("i2kdb (i2keast)"
+ (filename . "/plink:eins.ath.cx:/mnt/home/josh/i2kdb/src/i2kdb/")
+ (front-context-string . "config.clj\n  -rw")
+ (rear-context-string . "461 10-06 03:39 ")
+ (position . 109))
+("i2kexp"
+ (filename . "/plink:eins.ath.cx:/mnt/home/josh/i2kexp/src/i2kexp/")
+ (front-context-string . "core.clj\n  drwxr")
+ (rear-context-string . "545 10-12 07:13 ")
+ (position . 109))
+(".emacs"
+ (filename . "~/.emacs")
+ (front-context-string . "(add-to-list 'lo")
+ (rear-context-string)
+ (position . 1))
+("i2kworkers (i2ksouth)"
+ (filename . "/plink:eins.ath.cx:/mnt/home/josh/i2kworkers/src/i2kworkers/")
+ (front-context-string . "analysis.clj\n  -")
+ (rear-context-string . "517 10-04 21:21 ")
+ (position . 119))
+)
